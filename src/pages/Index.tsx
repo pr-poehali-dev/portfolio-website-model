@@ -167,9 +167,7 @@ const Index = () => {
                   </div>
                   <div className="flex items-center gap-3">
                     <Icon name="Phone" size={20} />
-                    <a href="tel:+79001234567" className="hover:text-black transition-colors">
-                      +7 (900) 123-45-67
-                    </a>
+                    <a href="tel:+79001234567" className="hover:text-black transition-colors">+7 (985) 783-92-06</a>
                   </div>
                 </div>
               </div>
@@ -213,7 +211,7 @@ const Index = () => {
 
       <footer className="bg-black text-white py-8">
         <div className="max-w-7xl mx-auto px-6 text-center">
-          <p className="text-sm font-light tracking-wider">© 2024 Alexandra. Все права защищены.</p>
+          <p className="text-sm font-light tracking-wider">видеовизитка</p>
         </div>
       </footer>
     </div>
