@@ -14,12 +14,12 @@ const Index = () => {
   };
 
   const galleryImages = [
-    'https://cdn.poehali.dev/projects/f6b24f93-fe64-4f8d-9ef4-9309f9e0db20/files/c47fb66f-8a6b-4aee-8508-aeee76f36fc7.jpg',
-    'https://cdn.poehali.dev/projects/f6b24f93-fe64-4f8d-9ef4-9309f9e0db20/files/d98b38f6-779b-4918-85bd-01584ecd02f1.jpg',
-    'https://cdn.poehali.dev/projects/f6b24f93-fe64-4f8d-9ef4-9309f9e0db20/files/cbd7da5f-af07-4e2d-8a48-1c146ffdb449.jpg',
-    'https://cdn.poehali.dev/projects/f6b24f93-fe64-4f8d-9ef4-9309f9e0db20/files/c47fb66f-8a6b-4aee-8508-aeee76f36fc7.jpg',
-    'https://cdn.poehali.dev/projects/f6b24f93-fe64-4f8d-9ef4-9309f9e0db20/files/d98b38f6-779b-4918-85bd-01584ecd02f1.jpg',
-    'https://cdn.poehali.dev/projects/f6b24f93-fe64-4f8d-9ef4-9309f9e0db20/files/cbd7da5f-af07-4e2d-8a48-1c146ffdb449.jpg',
+    'https://storage.yandexcloud.net/fotora.ru/uploads/0d3a67b11a1906ca.jpeg',
+    'https://storage.yandexcloud.net/fotora.ru/uploads/3e44f0188ac7b1f4.jpeg',
+    'https://storage.yandexcloud.net/fotora.ru/uploads/9689557b902a78f2.jpeg',
+    'https://storage.yandexcloud.net/fotora.ru/uploads/6a271288c0d33199.jpeg',
+    'https://storage.yandexcloud.net/fotora.ru/uploads/f2ca1d112391e808.jpeg',
+    'https://storage.yandexcloud.net/fotora.ru/uploads/27cce8ddb3463211.jpeg',
   ];
 
   return (
