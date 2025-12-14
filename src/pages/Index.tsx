@@ -62,7 +62,7 @@ const Index = () => {
           </div>
           <div className="animate-fade-in">
             <img 
-              src="https://cdn.poehali.dev/projects/f6b24f93-fe64-4f8d-9ef4-9309f9e0db20/files/c47fb66f-8a6b-4aee-8508-aeee76f36fc7.jpg"
+              src="https://fpic.in/Wy7tXfD"
               alt="Alexandra"
               className="w-full h-[600px] object-cover"
             />
