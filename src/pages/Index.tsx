@@ -175,11 +175,8 @@ const Index = () => {
                   <a href="https://www.instagram.com/k.belyakov1?igsh=em5vbG5wNG43aXRu" target="_blank" rel="noopener noreferrer" className="hover:text-gray-600 transition-colors">
                     <Icon name="Instagram" size={24} />
                   </a>
-                  <a href="#" className="hover:text-gray-600 transition-colors">
-                    <Icon name="Facebook" size={24} />
-                  </a>
-                  <a href="#" className="hover:text-gray-600 transition-colors">
-                    <Icon name="Twitter" size={24} />
+                  <a href="https://t.me/White_official8" target="_blank" rel="noopener noreferrer" className="hover:text-gray-600 transition-colors">
+                    <Icon name="Send" size={24} />
                   </a>
                 </div>
               </div>
