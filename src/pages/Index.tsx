@@ -138,11 +138,14 @@ const Index = () => {
         <div className="max-w-5xl mx-auto px-6">
           <h2 className="text-4xl font-light tracking-wide mb-12 text-center">Видео</h2>
           <div className="space-y-8">
-            <div className="aspect-video bg-gray-200 flex items-center justify-center">
-              <div className="text-center text-gray-500">
-                <Icon name="Video" size={48} className="mx-auto mb-4" />
-                <p className="text-sm uppercase tracking-wider">Video Portfolio 2024</p>
-              </div>
+            <div className="aspect-video bg-black">
+              <video 
+                controls 
+                className="w-full h-full"
+                src="https://static.wfolio.ru/file/AqiFFw_TXMM4LDwoI2TPSR66D_XxSEQa/hUis9TCsbhKTa4f4FDcdCN74cNLxB1ge/1FIEsZJDRo8EClOobMHKOf_GWe_klDZZ/ecqW5ncTtFUGb0NItI9gVKit2_dmbW8g/XTZDc-m5P9XiutgImA_Pti8suWAIS-Xm/2HIF4bLIPHk.mp4"
+              >
+                Ваш браузер не поддерживает видео
+              </video>
             </div>
             <div className="grid md:grid-cols-2 gap-4">
               <div className="aspect-video bg-gray-200 flex items-center justify-center">
