@@ -161,9 +161,7 @@ const Index = () => {
                 <div className="space-y-3 text-gray-600">
                   <div className="flex items-center gap-3">
                     <Icon name="Mail" size={20} />
-                    <a href="mailto:alexandra@example.com" className="hover:text-black transition-colors">
-                      alexandra@example.com
-                    </a>
+                    <a href="mailto:alexandra@example.com" className="hover:text-black transition-colors">7839206@gmail.com</a>
                   </div>
                   <div className="flex items-center gap-3">
                     <Icon name="Phone" size={20} />
