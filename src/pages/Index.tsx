@@ -62,7 +62,7 @@ const Index = () => {
           </div>
           <div className="animate-fade-in">
             <img 
-              src="https://fpic.in/Wy7tXfD"
+              src="https://i126.fastpic.org/big/2025/1214/d6/70a8df095646ca63a978d27c09d9c7d6.jpeg"
               alt="Alexandra"
               className="w-full h-[600px] object-cover"
             />
