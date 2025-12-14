@@ -14,8 +14,8 @@ const Index = () => {
   };
 
   const galleryImages = [
-    'https://storage.yandexcloud.net/fotora.ru/uploads/0d3a67b11a1906ca.jpeg',
     'https://storage.yandexcloud.net/fotora.ru/uploads/3e44f0188ac7b1f4.jpeg',
+    'https://storage.yandexcloud.net/fotora.ru/uploads/0d3a67b11a1906ca.jpeg',
     'https://storage.yandexcloud.net/fotora.ru/uploads/9689557b902a78f2.jpeg',
     'https://storage.yandexcloud.net/fotora.ru/uploads/6a271288c0d33199.jpeg',
     'https://storage.yandexcloud.net/fotora.ru/uploads/f2ca1d112391e808.jpeg',
