@@ -27,7 +27,7 @@ const Index = () => {
       <nav className="fixed top-0 left-0 right-0 bg-white/95 backdrop-blur-sm z-50 border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-6 py-4">
           <div className="flex justify-between items-center">
-            <h1 className="text-2xl font-light tracking-widest">ALEXANDRA</h1>
+            <h1 className="text-2xl font-light tracking-widest">БЕЛЯКОВ НИКОЛАЙ</h1>
             <div className="flex gap-8">
               {['home', 'about', 'stats', 'gallery', 'video', 'contact'].map((section) => (
                 <button
@@ -74,14 +74,8 @@ const Index = () => {
         <div className="max-w-4xl mx-auto px-6">
           <h2 className="text-4xl font-light tracking-wide mb-12 text-center">О модели</h2>
           <div className="space-y-6 text-gray-700 font-light leading-relaxed text-lg">
-            <p>
-              Александра — профессиональная модель с международным опытом работы. Начала карьеру в модельном 
-              бизнесе в 2018 году и с тех пор сотрудничала с ведущими брендами и фотографами.
-            </p>
-            <p>
-              Специализируется на high fashion съемках, рекламных кампаниях и подиумных показах. 
-              Работала с известными дизайнерами и принимала участие в международных fashion weeks.
-            </p>
+            <p>Николай, 17 лет. Только начинаю свой путь в моделинге. Активно занимаюсь спортом (зал, футбол), что помогает держать форму и чувствовать себя уверенно перед камерой. Быстро учусь, хорошо работаю в кадре и с удовольстью принимаю любые творческие задачи. Нацелен на профессиональный рост и готов усердно работать.</p>
+            <p> </p>
             <p>
               Профессиональный подход, пунктуальность и умение работать в команде — ключевые качества, 
               которые ценят клиенты и партнеры.
