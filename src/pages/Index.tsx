@@ -172,7 +172,7 @@ const Index = () => {
               <div>
                 <h3 className="text-xl font-light mb-4">Социальные сети</h3>
                 <div className="flex gap-4">
-                  <a href="#" className="hover:text-gray-600 transition-colors">
+                  <a href="https://www.instagram.com/k.belyakov1?igsh=em5vbG5wNG43aXRu" target="_blank" rel="noopener noreferrer" className="hover:text-gray-600 transition-colors">
                     <Icon name="Instagram" size={24} />
                   </a>
                   <a href="#" className="hover:text-gray-600 transition-colors">
