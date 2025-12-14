@@ -53,16 +53,12 @@ const Index = () => {
       <section id="home" className="min-h-screen flex items-center justify-center pt-20">
         <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6 animate-fade-in">
-            <h2 className="text-6xl font-light tracking-wide">Александра</h2>
-            <p className="text-xl text-gray-600 font-light leading-relaxed">
-              Профессиональная модель с опытом работы в высокой моде, рекламе и коммерческих съемках
-            </p>
+            <h2 className="text-6xl tracking-wide font-extrabold">Беляков Николай</h2>
+            <p className="text-xl text-gray-600 font-light leading-relaxed">модель с опытом работы, в рекламе и коммерческих съемках</p>
             <Button 
               onClick={() => scrollToSection('contact')}
               className="mt-6 px-8 py-6 text-sm tracking-widest uppercase"
-            >
-              Связаться
-            </Button>
+            >связаться</Button>
           </div>
           <div className="animate-fade-in">
             <img 
