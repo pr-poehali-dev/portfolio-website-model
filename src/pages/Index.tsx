@@ -91,26 +91,26 @@ const Index = () => {
             <div className="space-y-6">
               <div className="border-b border-gray-200 pb-4">
                 <p className="text-sm text-gray-500 uppercase tracking-wider mb-2">Рост</p>
-                <p className="text-2xl font-light">178 см</p>
+                <p className="text-2xl font-light">175 см</p>
               </div>
 
               <div className="border-b border-gray-200 pb-4">
                 <p className="text-sm text-gray-500 uppercase tracking-wider mb-2">Размер одежды</p>
-                <p className="text-2xl font-light">42-44 (RU)</p>
+                <p className="text-2xl font-light">46-48 (RU)</p>
               </div>
             </div>
             <div className="space-y-6">
               <div className="border-b border-gray-200 pb-4">
                 <p className="text-sm text-gray-500 uppercase tracking-wider mb-2">Размер обуви</p>
-                <p className="text-2xl font-light">38 (EU)</p>
+                <p className="text-2xl font-light">42-43 (EU)</p>
               </div>
               <div className="border-b border-gray-200 pb-4">
                 <p className="text-sm text-gray-500 uppercase tracking-wider mb-2">Цвет глаз</p>
-                <p className="text-2xl font-light">Зеленый</p>
+                <p className="text-2xl font-light">голубой</p>
               </div>
               <div className="border-b border-gray-200 pb-4">
                 <p className="text-sm text-gray-500 uppercase tracking-wider mb-2">Цвет волос</p>
-                <p className="text-2xl font-light">Темно-русый</p>
+                <p className="text-2xl font-light">каштановый</p>
               </div>
             </div>
           </div>
