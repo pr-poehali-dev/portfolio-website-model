@@ -93,10 +93,7 @@ const Index = () => {
                 <p className="text-sm text-gray-500 uppercase tracking-wider mb-2">Рост</p>
                 <p className="text-2xl font-light">178 см</p>
               </div>
-              <div className="border-b border-gray-200 pb-4">
-                <p className="text-sm text-gray-500 uppercase tracking-wider mb-2">Параметры</p>
-                <p className="text-2xl font-light">86-61-90</p>
-              </div>
+
               <div className="border-b border-gray-200 pb-4">
                 <p className="text-sm text-gray-500 uppercase tracking-wider mb-2">Размер одежды</p>
                 <p className="text-2xl font-light">42-44 (RU)</p>
