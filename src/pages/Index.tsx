@@ -147,20 +147,6 @@ const Index = () => {
                 Ваш браузер не поддерживает видео
               </video>
             </div>
-            <div className="grid md:grid-cols-2 gap-4">
-              <div className="aspect-video bg-gray-200 flex items-center justify-center">
-                <div className="text-center text-gray-500">
-                  <Icon name="Video" size={32} className="mx-auto mb-2" />
-                  <p className="text-xs uppercase tracking-wider">Campaign Video</p>
-                </div>
-              </div>
-              <div className="aspect-video bg-gray-200 flex items-center justify-center">
-                <div className="text-center text-gray-500">
-                  <Icon name="Video" size={32} className="mx-auto mb-2" />
-                  <p className="text-xs uppercase tracking-wider">Runway Show</p>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </section>
